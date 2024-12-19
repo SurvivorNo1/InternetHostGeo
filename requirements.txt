@@ -1,0 +1,5 @@
+numpy==1.26.4
+matplotlib==3.8.4
+basemap==1.4.1
+pyproj==3.6.1
+scipy==1.14.1
